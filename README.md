@@ -1,7 +1,7 @@
 # 🥗 Classificação de Alimentos (Food vs Non-Food)
 
 <p align="center">
-  <img src="https://figures.semanticscholar.org/1e1a67a78badc619b2f9938e4a03922dcbee0fb6/5-Figure5-1.png" alt="Classificação de Alimentos" width="800">
+  <img src="https://pyimagesearch.com/wp-content/uploads/2019/05/transfer_learning_keras_food5k_dataset.jpg" alt="Classificação de Alimentos" width="800">
 </p>
 
 Este projeto foi desenvolvido durante o **Bootcamp de Machine Learning - Atlântico Avanti** e tem como objetivo avaliar o desempenho das abordagens baseadas em Redes Neurais Convolucionais (CNNs) utilizando o conjunto de dados [**Food-5K**](https://www.kaggle.com/datasets/trolukovich/food5k-image-dataset/data).
